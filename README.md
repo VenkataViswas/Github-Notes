@@ -1,4 +1,3 @@
-# Github-Notes
 
 # Git and GitHub Notes
 
