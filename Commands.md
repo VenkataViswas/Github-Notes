@@ -2,6 +2,19 @@
 
 This file serves as a quick reference for commonly used Git commands.
 
+## Configuring Git
+
+- **`git config --global user.name "Your Name"`**  
+  Sets the name you want attached to your commits. Use `--global` to set this for all repositories.
+
+- **`git config --global user.email "your.email@example.com"`**  
+  Sets the email you want attached to your commits. Use `--global` to set this for all repositories.
+
+- **`git config --list`**  
+  Lists all Git configurations currently set on your system.
+
+
+
 ## Initializing a Repository
 
 - **`git init`**  
